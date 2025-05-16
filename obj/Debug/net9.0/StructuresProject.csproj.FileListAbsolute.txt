@@ -1,0 +1,14 @@
+C:\Users\roaa swidany\Desktop\c#\StructuresProject\bin\Debug\net9.0\StructuresProject.exe
+C:\Users\roaa swidany\Desktop\c#\StructuresProject\bin\Debug\net9.0\StructuresProject.deps.json
+C:\Users\roaa swidany\Desktop\c#\StructuresProject\bin\Debug\net9.0\StructuresProject.runtimeconfig.json
+C:\Users\roaa swidany\Desktop\c#\StructuresProject\bin\Debug\net9.0\StructuresProject.dll
+C:\Users\roaa swidany\Desktop\c#\StructuresProject\bin\Debug\net9.0\StructuresProject.pdb
+C:\Users\roaa swidany\Desktop\c#\StructuresProject\obj\Debug\net9.0\StructuresProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roaa swidany\Desktop\c#\StructuresProject\obj\Debug\net9.0\StructuresProject.AssemblyInfoInputs.cache
+C:\Users\roaa swidany\Desktop\c#\StructuresProject\obj\Debug\net9.0\StructuresProject.AssemblyInfo.cs
+C:\Users\roaa swidany\Desktop\c#\StructuresProject\obj\Debug\net9.0\StructuresProject.csproj.CoreCompileInputs.cache
+C:\Users\roaa swidany\Desktop\c#\StructuresProject\obj\Debug\net9.0\StructuresProject.dll
+C:\Users\roaa swidany\Desktop\c#\StructuresProject\obj\Debug\net9.0\refint\StructuresProject.dll
+C:\Users\roaa swidany\Desktop\c#\StructuresProject\obj\Debug\net9.0\StructuresProject.pdb
+C:\Users\roaa swidany\Desktop\c#\StructuresProject\obj\Debug\net9.0\StructuresProject.genruntimeconfig.cache
+C:\Users\roaa swidany\Desktop\c#\StructuresProject\obj\Debug\net9.0\ref\StructuresProject.dll
